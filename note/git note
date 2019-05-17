@@ -1,0 +1,15 @@
+This file is created just to teach basic of git.
+
+1 install git
+2 git init
+3 git status
+4 git add -A
+5 git status
+6 git commit -m "Some message here "
+7 git status
+
+now go to github . com 
+do login and create new repository 
+and then from git (bash if you have)
+8 git remote add origin link
+9 push -f or -u origin master
